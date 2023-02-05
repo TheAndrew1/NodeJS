@@ -1,0 +1,1 @@
+Lembrar de usar npm install para instalar os pacotes
